@@ -23,7 +23,7 @@ When you register under **TBG**, you get access to:
 - ✅ Trusted partner with experience since 2013
 - ✅ Reliable rebate system backed by XM
 
----
+--- 
 
 ## How Much Rebate Per Lot Under TBG?
 
@@ -35,10 +35,10 @@ As a VIP Partner, **TBG provides a fixed 90% rebate** — among the highest in t
 
 ### 💰 Rebate Breakdown Per Lot:
 
-| Account Type       | EUR/USD | GBP/USD | XAU (Gold) | XAG (Silver) |
+| Account Type       | EUR/USD | GBP/USD | XAU (Gold) | BTC (Bitcoin)|
 |--------------------|---------|---------|------------|--------------|
-| **Standard**       | $8.10   | $9.00   | $12.00     | $72.00       |
-| **Ultra Low**      | $3.15   | $3.15   | $6.30      | $20.70       |
+| **Standard**       | $8.10   | $9.00   | $15.00     | $18.00       |
+| **Ultra Low**      | $3.15   | $3.15   | $6.30      | $7.10        |
 
 🕒 **Note:** Rebate is counted only if the trade is closed after a minimum of **3 minutes**.
 
