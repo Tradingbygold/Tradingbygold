@@ -29,8 +29,8 @@ When you register under **TBG**, you get access to:
 
 As a VIP Partner, **TBG provides a fixed 90% rebate** — among the highest in the region.
 
+<img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/5684a658-89e1-45bd-a399-298c88f2dec7" />
 
-<img width="800" height="400" alt="REBATE BROKER XM" src="https://github.com/user-attachments/assets/f13850b0-d1b7-4062-bcb2-11905b0e0476" />
 
 
 ### 💰 Rebate Breakdown Per Lot:
