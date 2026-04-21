@@ -1,6 +1,6 @@
 # XM Partner Code TBGFX – Get Up to 90% Auto Rebate Daily!
 
-## About Me – TradingByGold
+## About Me – www.TradingByGold.com
 
 Hi there! I'm **TradingByGold (TBG)** — an official **VIP Partner (IB)** of **XM Broker** since **2013**, trusted by thousands of clients across Southeast Asia.
 
