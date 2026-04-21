@@ -142,7 +142,7 @@ With a focus on transparency, consistency, and automation — TBG has built a re
 
 Just follow these steps:
 
-1. Go to: [Register](https://affs.click/fnpLR)  
+1. Go to: [Register](https:www.tradingbygold.com)  
 2. Fill in your personal details  
 3. In the **"Partner Code / Introducer Code"** field, enter: `TBGFX`  
 4. Complete your account verification  
